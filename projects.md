@@ -3,17 +3,12 @@ layout: page
 permalink: /projects/
 title: Projects
 ---
-
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
-
-<ul>
-	<li>
-		<b>Project title #1</b>: Give a brief description of your first project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Project title #2</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-
-</ul>
+### Ongoing
+- [Automatic Speech Recognition](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
+- [Audio Archival Content Retrieval](https://vipular.github.io/stuff/2021_PrasarBharatiProjects.html) by Prasar Bharati
+- [Spoken Term Detection (Voice Search)](stuff/2022_nltmProject) by NLTM
+- [Machine Learning for lattice theories in Physics]() core research grant from DST
+- [Automatic Music Tutor](https://vipular.github.io/narottam.github.io) by IMPRINT
+- [Sensor Calibration](https://vipular.github.io/stuff/2021_sensorcalibration.html) ML based calibration of air quality sensors by Maharashtra Pollution Control Board
+- [Machine Learning for Lattice Quantum Chromodynamics]() funded by SPARC, collaboration with Prof. W. Detmold and Prof. P. Shanahan, MIT
+- [Digitizing and AI-fying Maternity Care in Rural India]() funded by Google AI for Social Good program
