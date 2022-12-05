@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 title: Publications
 ---
+## [<ins>Google Scholar page</ins>](https://scholar.google.co.uk/citations?user=SC9YYPAAAAAJ&amp;hl=en) 
 * Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, "Domain adaptation based deep calibration of low-cost PM2.5 sensors", IEEE Sensors Journal, 2021.
 * Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta, and Laxmidhar Behera,"EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks", IEEE Transactions on Systems, Man and Cybernetics: Systems, 2021.
 * Japneet Singh, Mathias S Scheurer, Vipul Arora, "Generative models for sampling and phase transition indication in spin systems", Scipost Physics, 2021.
@@ -14,7 +15,7 @@ title: Publications
 * Vipul Arora and Laxmidhar Behera, "Musical source clustering and identification in polyphonic audio," IEEE/ACM Trans. Audio, Speech, and Lang. Process., vol. 22, no. 6, pp. 1003-1012, June 2014.
 * Vipul Arora and Laxmidhar Behera, "On-line melody extraction from polyphonic audio using harmonic cluster tracking," IEEE Trans. Audio, Speech and Lang. Process., vol. 21, no. 3, pp. 520-530, March 2013.
 
-## [<ins>Google Scholar page</ins>](https://scholar.google.co.uk/citations?user=SC9YYPAAAAAJ&amp;hl=en) 
+
 
 ## <span style="color:green">Patents</span>
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", filed in USA, 2021.
