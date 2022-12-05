@@ -23,7 +23,7 @@ title: Our Team
 - Swapnil Dey
 - Jagadeesh k Babu
 
-## Staff
+## Research Associates/Staff
 - Shiv Narayan Pandey
 - Suraj Jaiswal
 - Divyanshu Tripathi
