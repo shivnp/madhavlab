@@ -3,6 +3,7 @@ layout: page
 permalink: /team/
 title: Our Team
 ---
+
 ## Faculty
 - Dr. Vipul Arora
 
